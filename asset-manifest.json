@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prp0076/textutils.git/static/css/main.70ada10d.css",
+    "main.js": "/prp0076/textutils.git/static/js/main.5b8d6c5f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/prp0076/textutils.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/prp0076/textutils.git/index.html",
+    "main.70ada10d.css.map": "/prp0076/textutils.git/static/css/main.70ada10d.css.map",
+    "main.5b8d6c5f.js.map": "/prp0076/textutils.git/static/js/main.5b8d6c5f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/prp0076/textutils.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70ada10d.css",
+    "static/js/main.5b8d6c5f.js"
+  ]
+}
